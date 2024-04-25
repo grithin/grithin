@@ -1,8 +1,3 @@
-# About
-I'm a programmer who occasionally tries to introduce something useful.  A lot of these tools I've used in work projects or in personal projects.  Some of them I just designed for the fun of it and they never went into production.  Presently, I'm enjoying building things with the help of JSDOC.  If only every language had such a featureful standard for documenting, then perhaps I'd still know what all the Python, Ruby, Java, and Golang code I wrote does.
-
-
-
 # Highlights
 - [Service Locator And Dependency Injector](https://github.com/grithin/php-ioc-di) : I introduced a lot of interesting features on this one
 - [Application Standard](https://github.com/PHP-SG/psr-102) : A standard for application design that includes middleware and outerware. See [prototype implementation](https://github.com/PHP-SG/sr-2-implementation)
