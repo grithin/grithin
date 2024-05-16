@@ -1,4 +1,4 @@
-Please excuse the documentation.  With personal projects, I'm more concerned with the functionality.
+Please excuse the documentation.  With personal projects, I'm more concerned with the functionality, and much of this was written before type hinting or before editor autocomplete made type hinting particularly useful.
 
 # Highlights
 - [Service Locator And Dependency Injector](https://github.com/grithin/php-ioc-di) : interesting features
