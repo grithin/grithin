@@ -1,9 +1,11 @@
+Please excuse the documentation.  With personal projects, I'm more concerned with the functionality.
+
 # Highlights
-- [Service Locator And Dependency Injector](https://github.com/grithin/php-ioc-di) : I introduced a lot of interesting features on this one
-- [Application Standard](https://github.com/PHP-SG/psr-102) : A standard for application design that includes middleware and outerware. See [prototype implementation](https://github.com/PHP-SG/sr-2-implementation)
-- [PHP DB](https://github.com/grithin/php-db) : An enjoyably complex and flexible database query builder and handler
+- [Service Locator And Dependency Injector](https://github.com/grithin/php-ioc-di) : interesting features
+- [Application Standard](https://github.com/PHP-SG/psr-102) : A standard for application design that is a little more complex than usual. See [prototype implementation](https://github.com/PHP-SG/sr-2-implementation)
+- [PHP DB](https://github.com/grithin/php-db) : Prototype database query builder and handler
 - [PHP DB Tree](https://github.com/grithin/php-db-tree) : For handling tree data within RDB, like nested comments
-- [JS Input Validation](https://www.npmjs.com/package/@headhr/conform) : My PHP dynamic validation implemented in async JS
+- [JS Input Validation](https://www.npmjs.com/package/@headhr/conform) : dynamic validation implemented in async JS
 - [Active Record Basis](https://github.com/grithin/php-record) : A way of tracking arbitrarily deep changes to data
 - [PHP Templating](https://github.com/grithin/phptemplate) : A featureful template inclusion tool
 - [Simple Expression Parser](https://github.com/grithin/simpex?tab=readme-ov-file) : A parser for a langauge for describing example usage
